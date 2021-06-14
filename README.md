@@ -9,7 +9,20 @@ CREATE TABLE `workshop`.`users` ( `id` INT(11) NOT NULL AUTO_INCREMENT , `name` 
 I used XAMPP PHPMyAdmin panel, you may use any other,
 
 #After clone please run
+
 npm install
+
 #it help, in installing dependencies
+
+In this project you will find
+- app.js
+- node express server
+- body parser
+- routers
+- controllers
+- model
+- util 
+- databse connection details ( in proper development we naver keep configuration and credential details in file, here I just started the workshop so its for practice purpose)
+- in sql folder, there is a file with CRUD query examples
 
 
